@@ -1,0 +1,12 @@
+{
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
+    "primary_key": "Time",
+    "columns": {
+        "Time": {
+            "sdtype": "id"
+        },
+        "\u7535\u6d41": {
+            "sdtype": "numerical"
+        }
+    }
+}
